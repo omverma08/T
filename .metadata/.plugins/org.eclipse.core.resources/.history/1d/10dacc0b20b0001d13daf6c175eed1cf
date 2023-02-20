@@ -1,0 +1,23 @@
+package com.basic;
+
+public class Calculator {
+
+	int num; // Decalre Global variable
+
+	static int num1 = 10; // Intialization
+
+	int addition() {
+		System.out.println(num1);
+		return 0;
+	}
+
+	// num1=5; //Re-Assign
+
+	public static void main(String[] args) {
+
+		Calculator cal = new Calculator();
+		cal.addition();
+
+	}
+
+}

@@ -1,0 +1,11 @@
+package com.basic;
+
+public class Calculator {
+	
+	int num1;
+	
+	//Decalre
+	//Intialization
+	//Assign
+
+}

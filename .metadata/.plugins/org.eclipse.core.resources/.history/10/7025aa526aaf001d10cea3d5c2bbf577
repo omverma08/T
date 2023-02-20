@@ -1,0 +1,27 @@
+package com.basic;
+
+public class Human {
+	
+	int id;
+	String name;
+	String gender;
+	
+	
+	
+	public void sleep() {
+		
+		System.out.println("Sleeping method");
+	}
+	
+    
+	
+	
+	
+	public static void main(String[] args) {
+		
+      
+		
+		System.out.println("Welcome Tanisha");
+	}
+
+}

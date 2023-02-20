@@ -1,0 +1,17 @@
+package com.basic;
+
+public class Calculator {
+	
+	static int num1=1;
+	
+	//Decalre
+	
+	//Intialization
+	
+	//Re-Assign
+	public static void main(String[] args) {
+		num1=5;
+		System.out.println(num1);
+	}
+
+}

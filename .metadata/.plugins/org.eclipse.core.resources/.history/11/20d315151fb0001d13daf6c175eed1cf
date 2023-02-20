@@ -1,0 +1,21 @@
+package com.basic;
+
+public class Calculator {
+	
+	static int num1=1; ////Intialization
+	
+	//Decalre
+	
+	
+	
+
+	
+	
+	public static void main(String[] args) {
+		num1=5; 	//Re-Assign
+		System.out.println(num1);
+	}
+	
+	
+
+}

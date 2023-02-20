@@ -1,0 +1,16 @@
+package com.P1;
+
+public  class Tanisha {
+	
+	public void deposite() {
+		
+		System.out.println("deposite method");
+	}
+
+	
+public void homeLoan() {
+		
+		System.out.println("deposite method");
+	}
+
+}

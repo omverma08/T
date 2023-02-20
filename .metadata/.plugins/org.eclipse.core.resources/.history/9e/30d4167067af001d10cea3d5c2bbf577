@@ -1,0 +1,26 @@
+package com.basic;
+
+public class Human {
+	
+	gender
+	skinColor
+	hairColor
+    Weight
+    Height
+	
+    
+    study
+    eat
+    sleep
+    talk
+	
+	
+	
+	public static void main(String[] args) {
+		
+		
+		
+		System.out.println("Welcome Tanisha");
+	}
+
+}

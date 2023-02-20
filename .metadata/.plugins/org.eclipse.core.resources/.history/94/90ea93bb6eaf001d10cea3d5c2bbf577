@@ -1,0 +1,10 @@
+package com.P1;
+
+ class Tanisha {
+	
+	public void deposite() {
+		
+		System.out.println("deposite method");
+	}
+
+}

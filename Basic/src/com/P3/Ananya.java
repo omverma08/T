@@ -1,0 +1,14 @@
+package com.P3;
+
+public class Ananya {
+	
+	
+	public void laon() {
+		
+		System.out.println("loan method");
+	}
+
+	
+	
+	
+}

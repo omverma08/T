@@ -1,0 +1,44 @@
+package com.basic;
+
+public class Human {
+	
+	int id;
+	String name;
+	String gender;
+	
+	public Human(int id, String name, String gender) {
+		super();
+		this.id = id;
+		this.name = name;
+		this.gender = gender;
+	}
+	
+	public void sleep() {
+		
+		System.out.println("Sleeping method");
+	
+	
+	}
+	
+ public void eat() {
+		
+		System.out.println("eat method");
+	}
+	
+    
+	
+	
+	
+	public static void main(String[] args) {
+		
+		
+		Human human= new Human(1,"tanisha","female");
+		human.sleep();
+	
+		
+		System.out.println("Welcome Tanisha");
+	}
+
+	
+
+}

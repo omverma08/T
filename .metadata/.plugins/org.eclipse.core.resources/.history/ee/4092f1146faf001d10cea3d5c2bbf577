@@ -1,0 +1,15 @@
+package com.P2;
+
+public class ketki {
+	
+	public void cash() {
+		
+	}
+
+	
+	
+	public static void main(String[] args) {
+		Tanisha t = new  Tanisha();
+		t.deposite();
+	}
+}

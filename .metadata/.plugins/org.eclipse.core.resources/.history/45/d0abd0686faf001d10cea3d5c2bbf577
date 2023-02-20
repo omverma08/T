@@ -1,0 +1,17 @@
+package com.P2;
+
+import com.P1.Tanisha;
+
+public class ketki {
+	
+	public void cash() {
+		
+	}
+
+	
+	
+	public static void main(String[] args) {
+		Tanisha t = new  Tanisha();
+		t.deposite();
+	}
+}

@@ -1,0 +1,10 @@
+package com.P1;
+
+public class Om {
+
+	public static void main(String[] args) {
+		Tanisha t= new Tanisha();
+		t.homeLoan();
+	}
+
+}

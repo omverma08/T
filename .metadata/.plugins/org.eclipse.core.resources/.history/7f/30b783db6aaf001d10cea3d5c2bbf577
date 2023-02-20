@@ -1,0 +1,27 @@
+package com.basic;
+
+public class Human {
+	
+	int id;
+	String name;
+	String gender;
+	
+	
+	
+	public void sleep() {
+		
+		System.out.println("Sleeping method");
+	}
+	
+public void eat() {
+		
+		System.out.println("eat method");
+	}
+	
+    
+	
+	
+	
+	
+
+}
